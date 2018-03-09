@@ -1,0 +1,18 @@
+*cxtags* CXTags
+
+===============================================================================
+Contents ~
+
+g:cxtags_debug
+
+g:cxtags_event
+
+g:cxtags_project_dir
+
+CXTagsBuild
+
+
+
+
+
+
